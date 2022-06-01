@@ -1,7 +1,10 @@
 # GitLabs
 
-Calvuladora para as operações:
+
+Calculadora para as operações:
 
 - Somar 
 - Subtrair
 - Multiplicar
+- Dividir
+
